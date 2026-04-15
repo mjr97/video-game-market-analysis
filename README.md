@@ -42,4 +42,4 @@ The dataset includes:
 
 ## Author
 
-Milton Araujo
+Milton de Araujo Vilar
